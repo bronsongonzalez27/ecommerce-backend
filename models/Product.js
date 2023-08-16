@@ -29,7 +29,7 @@ Product.init(
       },
     }
     }
-    // Define other fields here
+    
   },
   {
     sequelize,
